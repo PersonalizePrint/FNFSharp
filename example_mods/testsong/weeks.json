@@ -1,0 +1,14 @@
+{
+    "weeks":
+    [
+        {
+            "name": "Test",
+            "graphic":"TestWeek",
+            "libInclude":["week6"],
+            "songs":
+            [
+                "Test"
+            ]
+        }
+    ]
+}
